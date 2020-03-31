@@ -22,6 +22,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 其它说明
 
+    在线demo https://xuewuli.github.io/Vue3D/
+
 #### 使用 three.js 渲染引擎结合Vue.js开发
 
 - three.js 可以实现绝大部分3D效果的表现，又足够轻量方便在各种h5框架下集成
