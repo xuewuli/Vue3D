@@ -22,7 +22,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 其它说明
 
-    在线demo https://xuewuli.github.io/Vue3D/
+在线demo 
+https://xuewuli.github.io/Vue3D/
 
 #### 使用 three.js 渲染引擎结合Vue.js开发
 
